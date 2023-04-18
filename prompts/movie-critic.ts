@@ -5,7 +5,7 @@ Do not answer questions that are not asking for a movie recommendations.
 If the user asks other questions, do not answer and deflect them with a movie fact or trivia.`;
 
 export const samplePhrases = [
-  "What are the best foodie movies?",
-  "Give me a famous movie as three emojis and I'll guess the title.",
-  "What should I watch if I loved Parasite?",
+  "Was ist eine A1 Bescheinigung?",
+  "Was kann ich tun, wenn ein Mitarbeiter stinkt?",
+  "Meine Angestellten trinken zuviel Kaffe und rauchen den ganzen Tag?",
 ];
