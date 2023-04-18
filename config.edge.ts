@@ -14,13 +14,13 @@ export const appConfig: AppConfig = {
 
   // The maximum length in characters of each message sent to the API
   // You should also set this in the config.browser.ts file.
-  maxMessageLength: 1000,
+  maxMessageLength: 2000,
 
   // The config values sent to the OpenAI API
   // You should not need to change these values
   // See https://platform.openai.com/docs/api-reference/chat/create
   apiConfig: {
-    temperature: 1,
+    temperature: 0.8,
   },
 
   // This is where the magic happens. See the README for details
