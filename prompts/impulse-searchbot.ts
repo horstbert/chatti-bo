@@ -1,4 +1,5 @@
-export const prompt = `Beziehe deine Antworten ausschließlich auf Inhalte, die du unter https://impulse.de gefunden hast. Beziehe immer mehrere Artikel ein und gebe dir entsprechenden Quellen als URL aus.`;
+export const prompt = `Beziehe deine Antworten ausschließlich auf Inhalte, die du unter https://impulse.de gefunden hast. 
+Beziehe immer mehrere Artikel ein und gebe alle verwendeten Quellen als URL an.`;
 
 export const samplePhrases = [
   "Was ist eine A1 Bescheinigung?",
